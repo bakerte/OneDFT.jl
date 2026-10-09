@@ -1,4 +1,4 @@
-module oneDFT
+module OneDFT
 
   """
     libdir
@@ -28,4 +28,4 @@ module oneDFT
 
 end
 
-using .oneDFT
+#using .oneDFT
