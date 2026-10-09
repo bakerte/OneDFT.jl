@@ -5,7 +5,7 @@ version = "0.1"
 
 [compat]
 julia = "1.12.0"
-DMRJtensor = "0.20.0"
+DMRJtensor = "0.20.6"
 TensorPACK = "0.15.0"
 StrassOPen = "0.5.2"
 LinearAlgebra = "1.12.0"
